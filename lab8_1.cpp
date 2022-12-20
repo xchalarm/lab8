@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    int a  =  20; b = 30;
+    int a  =  80; b = 30;
     int c = 4, output;
 
     outpot = a - b/c;
